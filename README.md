@@ -1,4 +1,4 @@
-# Task_2- Script-for-System-Monitoring-and-Log-Analysis
+# Task_2 Script for System Monitoring and Log Analysis
 **Task 2: Bash and Python Scripts**
 Objective
 ##### **Create two scripts for system health monitoring and log analysis.**
