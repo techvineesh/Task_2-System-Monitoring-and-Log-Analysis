@@ -1,0 +1,6 @@
+High CPU usage: 85.3%
+High Memory usage: 87.2%
+High Disk usage: 92%
+Top processes consuming memory:
+USER       PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         1  5.2 15.1 114940 49276 ?        S    10:13   0:05 python3

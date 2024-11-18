@@ -1,0 +1,8 @@
+Total 404 Errors: 23
+Most Requested Pages:
+/index.html: 350 requests
+/contact.html: 200 requests
+/home.html: 150 requests
+Top IP Addresses:
+192.168.1.1: 50 requests
+10.0.0.2: 45 requests
